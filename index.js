@@ -19,5 +19,3 @@ function destructivelyRemoveFirstKitten(array) {
   array.shift()
   return(array)
 }
-
-function appendKitten(name)
